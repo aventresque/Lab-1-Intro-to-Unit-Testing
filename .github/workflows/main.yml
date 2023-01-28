@@ -1,1 +1,1 @@
-javac -cp .:junit-4.13.2.jar:hamcrest-core-1.3.jar Triangle.java TriangleType.java TriangleTest.java
+javac -cp .:junit-4.13.2.jar:hamcrest-core-1.3.jar ./ie/tcd/scss/csl/csu22012/Triangle.java ./ie/tcd/scss/csl/csu22012/TriangleType.java ./ie/tcd/scss/csl/csu22012/TriangleTest.java
